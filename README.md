@@ -1,0 +1,2 @@
+- Hello, I’m @hunteddo. My pronouns are he/him!
+- I'm learning Python, JavaScript, and an itty-bitty amount of SQL.
